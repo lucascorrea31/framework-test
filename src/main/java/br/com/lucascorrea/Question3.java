@@ -1,7 +1,6 @@
 package br.com.lucascorrea;
 
 import java.util.HashSet;
-import java.util.LinkedList;
 import java.util.Set;
 
 public class Question3 {
